@@ -63,5 +63,43 @@ img {
     color: rgb(169, 169, 170);
 }
 
+/* main */
+
+/* foto main */
+
+.fotoTim {
+
+    width: 100%;
+
+}
+
+.Tim1, .Tim2 {
+
+    display: inline-block;
+    background-color: aquamarine;
+    width: 50%;
+    
+
+}
+
+.Tim1 {
+
+    background-image: url(../html-css-booleaner/img/tim-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 49%;
+}
+
+.Tim2 {
+
+    background-image: url(../html-css-booleaner/img/tim-2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 49%;
+}
+
+
 
 
